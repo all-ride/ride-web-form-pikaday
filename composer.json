@@ -1,0 +1,16 @@
+{
+    "name": "ride/web-form-pikaday",
+    "description": "",
+    "license": "MIT",
+    "version": "0.0.1",
+    "authors": [
+        {
+            "name": "Niels Dupont",
+            "email": "niels@statik.be"
+        },
+        {
+            "name": "Michiel Abé",
+            "email": "michiel@statik.be"
+        }
+    ]
+}
